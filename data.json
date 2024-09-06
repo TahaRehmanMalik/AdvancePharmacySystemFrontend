@@ -1,0 +1,3109 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aspirin 75 mg",
+      "form": "tablet",
+      "packSize": "20",
+      "description": "Pain reliever and fever reducer",
+      "discountPercentage": 10,
+      "manufacturer": "Pharmaceuticals",
+      "price": 140,
+      "stock": 100,
+      "thumbnail": "images/aspirin.jpg",
+      "category": "Pain Relief"
+    },
+    {
+      "id": 2,
+      "name": "Dettol 500ml",
+      "form": "Antiseptic Liquid",
+      "packSize": "600ml",
+      "description": "remove gums and bacteria and heal the wounds",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 1299,
+      "stock": 40,
+      "thumbnail": "images/detol.jpg",
+      "category": "Pain Relief",
+      "deleted": true
+    },
+    {
+      "id": 3,
+      "name": "Nestle Nido 1+ Milk Powder",
+      "form": "Powder",
+      "packSize": "2",
+      "description": "to help childrens grow with full potential",
+      "discountPercentage": 11,
+      "manufacturer": "Nestle Limited",
+      "price": 830,
+      "stock": 80,
+      "thumbnail": "images/nedo.jpg",
+      "category": "children",
+      "deleted": true
+    },
+    {
+      "id": 4,
+      "name": "Cogin",
+      "form": "Tablet",
+      "packSize": "20",
+      "description": "Increases circulation to the brain & lower extremities.",
+      "discountPercentage": 12.96,
+      "manufacturer": "Avant Pharma",
+      "price": 325,
+      "stock": 80,
+      "thumbnail": "images/cogin.jpg",
+      "category": "Generic"
+    },
+    {
+      "id": 5,
+      "name": "Hamdard Jernide 120ml",
+      "form": "Liquid",
+      "packSize": "120ml",
+      "description": "Hamdard Jernide addresses the issue related to male general debility. This syrup can be used by male only. It checks seminal discharge and provides relief from burning sensation urine discharge. It is also helpful in night fall",
+      "discountPercentage": 13,
+      "manufacturer": "Hamdard Limited",
+      "price": 190,
+      "stock": 80,
+      "thumbnail": "images/jernide.jpg",
+      "category": "Cyrup"
+    },
+    {
+      "id": 6,
+      "name": "Freestyle Glucometer Strips 50s",
+      "form": "Glucose monitor strips",
+      "packSize": "1",
+      "description": "Blood Glucose test Stripe",
+      "discountPercentage": 9,
+      "manufacturer": "Abbott Limited",
+      "price": 1750,
+      "stock": 80,
+      "thumbnail": "images/strips.jpg",
+      "category": "strips"
+    },
+    {
+      "id": 7,
+      "name": "Zetro Cap 250mg 10's",
+      "form": "Capsules",
+      "packSize": "1x10's",
+      "description": "Prevention of infection due to Mycobacterium avium-intracellulare Complex (MAC) disease in adults and children aged more than 12 years",
+      "discountPercentage": 14,
+      "manufacturer": " GETZ PHARMA PAKistan LTD",
+      "price": 505,
+      "stock": 80,
+      "thumbnail": "images/zetro.jpg",
+      "category": "ANTI-BACTERIAL"
+    },
+    {
+      "id": 8,
+      "name": "Atarax",
+      "form": "Tablet",
+      "packSize": "2 x 25's",
+      "description": "Atarax is used as a sedative to treat anxiety and tension. It is also used together with other medications given for anesthesia",
+      "discountPercentage": 5,
+      "manufacturer": "GlaxoSmithKline",
+      "price": 61,
+      "stock": 50,
+      "thumbnail": "images/atarax.jpg",
+      "category": "Generic"
+    },
+    {
+      "id": 9,
+      "name": "Aprovel",
+      "form": "Tablet",
+      "packSize": "2x8's",
+      "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+      "discountPercentage": 12,
+      "manufacturer": "SANOFI-AVENTIS",
+      "price": 666,
+      "stock": 50,
+      "thumbnail": "images/aprovel.jpg",
+      "category": "Generic"
+    },
+    {
+      "id": 10,
+      "name": "Amclav",
+      "form": "Tablet",
+      "packSize": "1 x 6's",
+      "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+      "discountPercentage": 8,
+      "manufacturer": "Getz Pharma",
+      "price": 275,
+      "stock": 80,
+      "thumbnail": "images/amclav.jpg",
+      "category": "bacterial infection"
+    },
+    {
+      "id": 11,
+      "name": "Rigix 10mg",
+      "form": "Tablet",
+      "packSize": "2x15's",
+      "description": "use for allergic",
+      "discountPercentage": 9,
+      "manufacturer": "AGP(Pvt)Ltd",
+      "price": 260,
+      "stock": 80,
+      "thumbnail": "images/rigix.jpg",
+      "category": "allergic"
+    },
+    {
+      "id": 12,
+      "name": "Coldrex",
+      "form": "Tablet",
+      "packSize": "10x10's",
+      "description": "Coldrex tablets provide short-term relief to complaints accompanying the flu and the cold. Such complaints include headache, chills, muscle and joint pain, swollen nasal mucous membranes, sinus pain and painful swallowing",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 925,
+      "stock": 80,
+      "thumbnail": "images/coldrex.jpg",
+      "category": "Flu Cold"
+    },
+    {
+      "id": 13,
+      "name": "Siroline Syrup 120ml",
+      "form": "Antiseptic Liquid",
+      "packSize": "1",
+      "description": "remove dry cough",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 125,
+      "stock": 80,
+      "thumbnail": "images/siroline.jpg",
+      "category": "Cough Infection"
+    },
+    {
+      "id": 14,
+      "name": "Imodium",
+      "form": "Tablet",
+      "packSize": "2x10's",
+      "description": "help to cure diarrhea",
+      "discountPercentage": 12.96,
+      "manufacturer": " Johnson & Johnson",
+      "price": 180,
+      "stock": 80,
+      "thumbnail": "images/imodium.jpg",
+      "category": "diarrhea infection"
+    },
+    {
+      "id": 15,
+      "name": "Caricef 200mg",
+      "form": "Tablet",
+      "packSize": "1x5's",
+      "description": "to help for curing flu infection",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 525,
+      "stock": 70,
+      "thumbnail": "images/caricef.jpg",
+      "category": "Flu infection"
+    },
+    {
+      "id": 16,
+      "name": "Clinica 40gm",
+      "form": "Liquid",
+      "packSize": "1",
+      "description": " clinica is used to clean teeth",
+      "discountPercentage": 6.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 125,
+      "stock": 80,
+      "thumbnail": "images/clinica.jpg",
+      "category": " tooth Paste"
+    },
+    {
+      "id": 17,
+      "name": "Listerine 500ml",
+      "form": "Liquid",
+      "packSize": "1",
+      "description": "remove gums",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 525,
+      "stock": 80,
+      "thumbnail": "images/mouthwash.jpg",
+      "category": "Mouth wash"
+    },
+    {
+      "id": 18,
+      "name": "Tooth Brush",
+      "form": "Solid",
+      "packSize": "1",
+      "description": "to clean teeth",
+      "discountPercentage": 12.96,
+      "manufacturer": "Synsodine Limited",
+      "price": 225,
+      "stock": 80,
+      "thumbnail": "images/brush.jpg",
+      "category": "Tooth brush"
+    },
+    {
+      "id": 19,
+      "name": "Kestine 10mg",
+      "form": "Tablet",
+      "packSize": "1x10's",
+      "description": "Kestine tablets are used for symptomatic treatment of allergic rhinitis (runny nose) and urticaria (nettle rash).",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 220,
+      "stock": 80,
+      "thumbnail": "images/Kestine.jpg",
+      "category": "Allergic"
+    },
+    {
+      "id": 20,
+      "name": "Adrance-M 500mg",
+      "form": "Tablet",
+      "packSize": "2x7's",
+      "description": "It controls high blood sugar levels and reduces the risks of damages associated with hyperglycemia",
+      "discountPercentage": 12.96,
+      "manufacturer": "Atco Pharma Limited",
+      "price": 165,
+      "stock": 80,
+      "thumbnail": "images/adrance.jpg",
+      "category": "anti-diabetic"
+    },
+    {
+      "id": 21,
+      "name": "Adapco Forte Gel",
+      "form": "Liquid Gel",
+      "packSize": "50gm",
+      "description": "This medication is used on the skin to treat acne",
+      "discountPercentage": 12.96,
+      "manufacturer": "Atco Pharma Limited",
+      "price": 490,
+      "stock": 80,
+      "thumbnail": "images/adapco.jpg",
+      "category": "Antibiotic"
+    },
+    {
+      "id": 22,
+      "name": "Algocin 500mg",
+      "form": "Tablet",
+      "packSize": "1x10's",
+      "description": "Algocin is an antibacterial medication used to treat a variety of bacterial infections.",
+      "discountPercentage": 13.96,
+      "manufacturer": "AGP Limited",
+      "price": 360,
+      "stock": 80,
+      "thumbnail": "images/algocin.jpg",
+      "category": "Bacterial Infection"
+    },
+    {
+      "id": 23,
+      "name": "Amodip-V ",
+      "form": "Tablet",
+      "packSize": "1x7's",
+      "description": "Amodip-V relaxing the blood vessels and make blood flow easier. It also helps to prevent kidney problems, heart attacks, and strokes by lowering high blood pressure",
+      "discountPercentage": 12.96,
+      "manufacturer": "Mass-PH Health Limited",
+      "price": 725,
+      "stock": 80,
+      "thumbnail": "images/amodip.jpg",
+      "category": "Amlodipine besylate"
+    },
+    {
+      "id": 24,
+      "name": "Arysa",
+      "form": "Tablet",
+      "packSize": "2x7's",
+      "description": "Arysa can be used for the treatment of persistent cough, difficulty swallowing, and heartburn",
+      "discountPercentage": 12.96,
+      "manufacturer": "Helix Pharma Limited",
+      "price": 88,
+      "stock": 80,
+      "thumbnail": "images/arysa.jpg",
+      "category": "Gastroesophageal"
+    },
+    {
+      "id": 25,
+      "name": "Artheget-DS",
+      "form": "Tablet",
+      "packSize": "1 x 8's",
+      "description": "Artemether is an antimalarial agent used to treat acute uncomplicated malaria",
+      "discountPercentage": 12.96,
+      "manufacturer": "Getz Pharma Limited",
+      "price": 385,
+      "stock": 80,
+      "thumbnail": "images/artheget.jpg",
+      "category": "Anti-Malarial"
+    },
+    {
+      "id": 26,
+      "name": "Axid Neo",
+      "form": "Tablet",
+      "packSize": "2x7's",
+      "description": "Nizatidine is used to treat ulcers of the stomach and intestines and prevent them from coming back after they have healed",
+      "discountPercentage": 4,
+      "manufacturer": "AGP Pharma Limited",
+      "price": 174,
+      "stock": 80,
+      "thumbnail": "images/axidneo.jpg",
+      "category": "Gastroesophageal"
+    },
+    {
+      "id": 27,
+      "name": "Augmentin",
+      "form": "Tablet",
+      "packSize": "2x6's",
+      "description": "It is used to treat bacterial infections such as sinusitis, bronchitis, pneumonia, ear infections, urinary tract infections and more",
+      "discountPercentage": 12.96,
+      "manufacturer": "GlaxoSmithKline Limited",
+      "price": 925,
+      "stock": 80,
+      "thumbnail": "images/augmentin.jpg",
+      "category": "antibiotic"
+    },
+    {
+      "id": 28,
+      "name": "Aldomet",
+      "form": "Tablet",
+      "packSize": "10x1's",
+      "description": "Aldomet is an antihypertensive drug used to treat hypertension high blood pressure.",
+      "discountPercentage": 12.96,
+      "manufacturer": "OBS Pharma Limited",
+      "price": 145,
+      "stock": 80,
+      "thumbnail": "images/aldomet.jpg",
+      "category": "methyldopa"
+    },
+    {
+      "id": 29,
+      "name": "Arinac Tab",
+      "form": "Tablet",
+      "packSize": "10x10's",
+      "description": "For the relief of the symptoms of cold and cold with associated congestion, including aches and pains, headache, fever, sore throat, runny or blocked nose and sinuses",
+      "discountPercentage": 12.96,
+      "manufacturer": "Abbott Laboratories Limited",
+      "price": 55,
+      "stock": 80,
+      "thumbnail": "images/arinac.jpg",
+      "category": "Pain Relief"
+    },
+    {
+      "id": 30,
+      "name": "Ponston",
+      "form": "Tablet",
+      "packSize": "2x10's",
+      "description": " It also provides short term relief of pain in conditions such as arthritic pain, muscle and joint injuries such as sprains, strains and tendonitis; dental pain",
+      "discountPercentage": 12.96,
+      "manufacturer": "Pharmaceuticals Limited",
+      "price": 925,
+      "stock": 80,
+      "thumbnail": "images/ponston.jpg",
+      "category": "Pain Relief"
+    },
+    {
+      "productName": "Coldin",
+      "productForm": "tablet",
+      "packSize": "1x16's",
+      "Description": "this medicine is for fever ane cough",
+      "manufacturer": "Pharmaceuticals Limited",
+      "category": "Pain Relief",
+      "Price": 78,
+      "discountPercentage": 8,
+      "stock": 20,
+      "thumbnail": "images/coldin.jpg",
+      "id": 31,
+      "deleted": true,
+      "name": "coldin",
+      "form": "tablet",
+      "description": "relief for fever and cough",
+      "price": 130
+    },
+    {
+      "productName": "coldrex",
+      "productForm": "tablet",
+      "packSize": "2x12's",
+      "Description": "this tablet for pain relief of throat",
+      "manufacturer": "Synsodine Limited",
+      "category": "Flu Cold",
+      "price": 100,
+      "discountPercentage": 12,
+      "stock": 10,
+      "thumbnail": "images/coldrex.jpg",
+      "id": 32,
+      "deleted": true,
+      "name": "coldrex",
+      "form": "tablet",
+      "description": "it is used to cure for fever and cough,flue"
+    },
+    {
+      "name": "Protein Muscular",
+      "form": "pwder",
+      "packSize": "1",
+      "description": "this product enhance your body",
+      "manufacturer": " Johnson & Johnson",
+      "category": "Antibiotic",
+      "price": 1450,
+      "discountPercentage": 5,
+      "stock": 14,
+      "thumbnail": "images/nedo.jpg",
+      "id": 33
+    },
+    {
+      "name": "FexetD",
+      "form": "tablet",
+      "packSize": "2x10's",
+      "description": "this mediciene  cure for chest infection and help to breath in anormal way",
+      "manufacturer": "Getz Pharma",
+      "category": "allergic",
+      "price": 230,
+      "discountPercentage": 4,
+      "stock": 12,
+      "thumbnail": "images/fexet.jpg",
+      "id": 34
+    }
+  ],
+  "manufecturers": [
+    {
+      "value": "Pharmaceuticals",
+      "label": "Pharmaceuticals",
+      "checked": false
+    },
+    {
+      "value": "Pharmaceuticals Limited",
+      "label": "Pharmaceuticals Limited",
+      "checked": false
+    },
+    {
+      "value": "Nestle Limited",
+      "label": "Nestle Limited",
+      "checked": false
+    },
+    {
+      "value": "Avant Pharma",
+      "label": "Avant Pharma",
+      "checked": false
+    },
+    {
+      "value": "Hamdard Limited",
+      "label": "Hamdard Limited",
+      "checked": false
+    },
+    {
+      "value": "Abbott Limited",
+      "label": "Abbott Limited",
+      "checked": false
+    },
+    {
+      "value": " GETZ PHARMA PAKistan LTD",
+      "label": " GETZ PHARMA PAKistan LTD",
+      "checked": false
+    },
+    {
+      "value": "GlaxoSmithKline",
+      "label": "GlaxoSmithKline",
+      "checked": false
+    },
+    {
+      "value": "SANOFI-AVENTIS",
+      "label": "SANOFI AVENTIS",
+      "checked": false
+    },
+    {
+      "value": "Getz Pharma",
+      "label": "Getz Pharma",
+      "checked": false
+    },
+    {
+      "value": "AGP(Pvt)Ltd",
+      "label": "AGP(Pvt)Ltd",
+      "checked": false
+    },
+    {
+      "value": " Johnson & Johnson",
+      "label": " Johnson & Johnson",
+      "checked": false
+    },
+    {
+      "value": "Synsodine Limited",
+      "label": "Synsodine Limited",
+      "checked": false
+    },
+    {
+      "value": "Atco Pharma Limited",
+      "label": "Atco Pharma Limited",
+      "checked": false
+    },
+    {
+      "value": "AGP Limited",
+      "label": "AGP Limited",
+      "checked": false
+    },
+    {
+      "value": "Mass-PH Health Limited",
+      "label": "Mass PH Health Limited",
+      "checked": false
+    },
+    {
+      "value": "Helix Pharma Limited",
+      "label": "Helix Pharma Limited",
+      "checked": false
+    },
+    {
+      "value": "Getz Pharma Limited",
+      "label": "Getz Pharma Limited",
+      "checked": false
+    },
+    {
+      "value": "AGP Pharma Limited",
+      "label": "AGP Pharma Limited",
+      "checked": false
+    },
+    {
+      "value": "GlaxoSmithKline Limited",
+      "label": "GlaxoSmithKline Limited",
+      "checked": false
+    },
+    {
+      "value": "OBS Pharma Limited",
+      "label": "OBS Pharma Limited",
+      "checked": false
+    },
+    {
+      "value": "Abbott Laboratories Limited",
+      "label": "Abbott Laboratories Limited",
+      "checked": false
+    }
+  ],
+  "categories": [
+    {
+      "value": "Pain Relief",
+      "label": "Pain Relief",
+      "checked": false
+    },
+    {
+      "value": "children",
+      "label": "children",
+      "checked": false
+    },
+    {
+      "value": "Generic",
+      "label": "Generic",
+      "checked": false
+    },
+    {
+      "value": "Cyrup",
+      "label": "Cyrup",
+      "checked": false
+    },
+    {
+      "value": "strips",
+      "label": "strips",
+      "checked": false
+    },
+    {
+      "value": "ANTI-BACTERIAL",
+      "label": "ANTI BACTERIAL",
+      "checked": false
+    },
+    {
+      "value": "bacterial infection",
+      "label": "bacterial infection",
+      "checked": false
+    },
+    {
+      "value": "allergic",
+      "label": "allergic",
+      "checked": false
+    },
+    {
+      "value": "Flu Cold",
+      "label": "Flu Cold",
+      "checked": false
+    },
+    {
+      "value": "Cough Infection",
+      "label": "Cough Infection",
+      "checked": false
+    },
+    {
+      "value": "diarrhea infection",
+      "label": "diarrhea infection",
+      "checked": false
+    },
+    {
+      "value": "Flu infection",
+      "label": "Flu infection",
+      "checked": false
+    },
+    {
+      "value": " tooth Paste",
+      "label": " tooth Paste",
+      "checked": false
+    },
+    {
+      "value": "Mouth wash",
+      "label": "Mouth wash",
+      "checked": false
+    },
+    {
+      "value": "Tooth brush",
+      "label": "Tooth brush",
+      "checked": false
+    },
+    {
+      "value": "Allergic",
+      "label": "Allergic",
+      "checked": false
+    },
+    {
+      "value": "anti-diabetic",
+      "label": "anti diabetic",
+      "checked": false
+    },
+    {
+      "value": "Antibiotic",
+      "label": "Antibiotic",
+      "checked": false
+    },
+    {
+      "value": "Bacterial Infection",
+      "label": "Bacterial Infection",
+      "checked": false
+    },
+    {
+      "value": "Amlodipine besylate",
+      "label": "Amlodipine besylate",
+      "checked": false
+    },
+    {
+      "value": "Gastroesophageal",
+      "label": "Gastroesophageal",
+      "checked": false
+    },
+    {
+      "value": "Anti-Malarial",
+      "label": "Anti Malarial",
+      "checked": false
+    },
+    {
+      "value": "antibiotic",
+      "label": "antibiotic",
+      "checked": false
+    },
+    {
+      "value": "methyldopa",
+      "label": "methyldopa",
+      "checked": false
+    }
+  ],
+  "users": [
+    {
+      "email": "test123@gmail.com",
+      "password": "Query123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "Hasnat Jutt",
+          "email": "testify123@gmail.com",
+          "city": "Pindhi",
+          "state": "punjab",
+          "pinCode": "45678",
+          "phone": "2345678",
+          "street": "kashmir"
+        },
+        {
+          "name": "Sono Meher",
+          "email": "meher@gmail.com",
+          "phone": "094446789",
+          "street": "Main street Karachi",
+          "city": "karachi",
+          "state": "sindh",
+          "pinCode": "345678"
+        },
+        {
+          "name": "Hasnat Butt",
+          "email": "testify123@gmail.com",
+          "phone": "2345678",
+          "street": "kashmir",
+          "city": "Pindhi",
+          "state": "punjab",
+          "pinCode": "45678"
+        }
+      ],
+      "id": 1,
+      "orders": [
+        {
+          "items": [
+            {
+              "name": "Dettol 500ml",
+              "form": "Antiseptic Liquid",
+              "packSize": "500ml",
+              "description": "remove gums",
+              "discountPercentage": 12.96,
+              "manufacturer": "Pharmaceuticals Limited",
+              "price": 925,
+              "stock": 80,
+              "thumbnail": "images/detol.jpg",
+              "category": "Pain Relief",
+              "quantity": 2,
+              "user": 1,
+              "id": "pSfCUAu"
+            }
+          ],
+          "totalAmount": 1850,
+          "totalItems": 2,
+          "user": {
+            "email": "test123@gmail.com",
+            "password": "Query123",
+            "addresses": [
+              {
+                "name": "Kalash",
+                "email": "test123@gmail.com",
+                "phone": "456789123",
+                "street": "Pindi",
+                "city": "Pindhi",
+                "state": "sindh",
+                "pinCode": "12345"
+              }
+            ],
+            "id": 1
+          },
+          "paymentMethod": "cash",
+          "selectedAddress": {
+            "name": "Kalash",
+            "email": "test123@gmail.com",
+            "phone": "456789123",
+            "street": "Pindi",
+            "city": "Pindhi",
+            "state": "sindh",
+            "pinCode": "12345"
+          },
+          "status": "pending",
+          "id": 1
+        },
+        {
+          "items": [
+            {
+              "name": "Dettol 500ml",
+              "form": "Antiseptic Liquid",
+              "packSize": "500ml",
+              "description": "remove gums",
+              "discountPercentage": 12.96,
+              "manufacturer": "Pharmaceuticals Limited",
+              "price": 925,
+              "stock": 80,
+              "thumbnail": "images/detol.jpg",
+              "category": "Pain Relief",
+              "quantity": 2,
+              "user": 1,
+              "id": "pSfCUAu"
+            }
+          ],
+          "totalAmount": 1850,
+          "totalItems": 2,
+          "user": {
+            "email": "test123@gmail.com",
+            "password": "Query123",
+            "addresses": [
+              {
+                "name": "Kalash",
+                "email": "test123@gmail.com",
+                "phone": "456789123",
+                "street": "Pindi",
+                "city": "Pindhi",
+                "state": "sindh",
+                "pinCode": "12345"
+              }
+            ],
+            "id": 1
+          },
+          "paymentMethod": "cash",
+          "selectedAddress": {
+            "name": "Kalash",
+            "email": "test123@gmail.com",
+            "phone": "456789123",
+            "street": "Pindi",
+            "city": "Pindhi",
+            "state": "sindh",
+            "pinCode": "12345"
+          },
+          "status": "pending",
+          "id": 2
+        },
+        {
+          "items": [
+            {
+              "name": "Cogin",
+              "form": "Tablet",
+              "packSize": "20",
+              "description": "Increases circulation to the brain & lower extremities.",
+              "discountPercentage": 12.96,
+              "manufacturer": "Avant Pharma",
+              "price": 325,
+              "stock": 80,
+              "thumbnail": "images/cogin.jpg",
+              "category": "Generic",
+              "quantity": 2,
+              "user": 1,
+              "id": 2
+            }
+          ],
+          "totalAmount": 650,
+          "totalItems": 2,
+          "user": {
+            "email": "test123@gmail.com",
+            "password": "Query123",
+            "addresses": [
+              {
+                "name": "Kalash",
+                "email": "test123@gmail.com",
+                "phone": "456789123",
+                "street": "Pindi",
+                "city": "Pindhi",
+                "state": "sindh",
+                "pinCode": "12345"
+              },
+              {
+                "name": "Usama",
+                "email": "usamameher@gmail.com",
+                "phone": "54466789990",
+                "street": "Street No2 Main Bazar Jama Masjid Dehli",
+                "city": "Dehli",
+                "state": "UP",
+                "pinCode": "123456"
+              }
+            ],
+            "id": 1
+          },
+          "paymentMethod": "cash",
+          "selectedAddress": {
+            "name": "Usama",
+            "email": "usamameher@gmail.com",
+            "phone": "54466789990",
+            "street": "Street No2 Main Bazar Jama Masjid Dehli",
+            "city": "Dehli",
+            "state": "UP",
+            "pinCode": "123456"
+          },
+          "status": "pending",
+          "id": 5
+        },
+        {
+          "items": [
+            {
+              "name": "Amclav",
+              "form": "Tablet",
+              "packSize": "1 x 6's",
+              "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+              "discountPercentage": 8,
+              "manufacturer": "Getz Pharma",
+              "price": 275,
+              "stock": 80,
+              "thumbnail": "images/amclav.jpg",
+              "category": "bacterial infection",
+              "quantity": 1,
+              "user": 1,
+              "id": 1
+            }
+          ],
+          "totalAmount": 275,
+          "totalItems": 1,
+          "user": {
+            "email": "test123@gmail.com",
+            "password": "Query123",
+            "addresses": [
+              {
+                "name": "Dawood Butt",
+                "email": "jani123@gmail.com",
+                "phone": "090078601",
+                "street": "Kashmiri",
+                "city": "Multan",
+                "state": "Punjab",
+                "pinCode": "23456"
+              },
+              {
+                "name": "Shahid",
+                "email": "shahid@gmail.com",
+                "phone": "0900786019",
+                "street": "dark Street near pindi",
+                "city": "Haryana",
+                "state": "Punjab",
+                "pinCode": "120000"
+              }
+            ],
+            "id": 1
+          },
+          "paymentMethod": "cash",
+          "selectedAddress": {
+            "name": "Dawood Butt",
+            "email": "jani123@gmail.com",
+            "phone": "090078601",
+            "street": "Kashmiri",
+            "city": "Multan",
+            "state": "Punjab",
+            "pinCode": "23456"
+          },
+          "status": "pending",
+          "id": 8
+        },
+        {
+          "items": [
+            {
+              "name": "Aprovel",
+              "form": "Tablet",
+              "packSize": "2x8's",
+              "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+              "discountPercentage": 12,
+              "manufacturer": "SANOFI-AVENTIS",
+              "price": 666,
+              "stock": 50,
+              "thumbnail": "images/aprovel.jpg",
+              "category": "Generic",
+              "quantity": 1,
+              "user": 1,
+              "id": 1
+            }
+          ],
+          "totalAmount": 666,
+          "totalItems": 1,
+          "user": {
+            "email": "test123@gmail.com",
+            "password": "Query123",
+            "addresses": [
+              {
+                "name": "Hasnat Butt",
+                "email": "testify123@gmail.com",
+                "phone": "2345678",
+                "street": "kashmir",
+                "city": "Pindhi",
+                "state": "punjab",
+                "pinCode": "45678"
+              }
+            ],
+            "id": 1
+          },
+          "paymentMethod": "cash",
+          "selectedAddress": {
+            "name": "Hasnat Butt",
+            "email": "testify123@gmail.com",
+            "phone": "2345678",
+            "street": "kashmir",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678"
+          },
+          "status": "pending",
+          "id": 11
+        }
+      ]
+    },
+    {
+      "email": "demo123@gmail.com",
+      "password": "Beast123",
+      "role": "user",
+      "addresses": [
+        {
+          "name": "TAHA Malik",
+          "email": "jani@gmail.com",
+          "city": "Lahore",
+          "state": "03224120611",
+          "pinCode": "HOUSE NO 31 STREET NO2 AMIN PARK LAHORE",
+          "phone": "1111123455",
+          "street": "2 Amin park,ravi road"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "email": "admin123@gmail.com",
+      "password": "Matrix123",
+      "addresses": [
+        {
+          "name": "John wicky",
+          "email": "john123@gmail.com",
+          "city": "New York",
+          "state": "Atariya",
+          "pinCode": "98765",
+          "phone": "+91-11111111",
+          "street": "Main NewYork street opposite to the TimeHorton"
+        }
+      ],
+      "role": "admin",
+      "id": 3
+    },
+    {
+      "email": "demo@gmail.com",
+      "password": "n123m123A",
+      "addresses": [],
+      "role": "user",
+      "id": 4
+    },
+    {
+      "email": "hashir@gamil.com",
+      "password": "Buery123",
+      "addresses": [],
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "cart": [
+    {
+      "name": "Amclav",
+      "form": "Tablet",
+      "packSize": "1 x 6's",
+      "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+      "discountPercentage": 8,
+      "manufacturer": "Getz Pharma",
+      "price": 275,
+      "stock": 80,
+      "thumbnail": "images/amclav.jpg",
+      "category": "bacterial infection",
+      "productId": 10,
+      "quantity": 1,
+      "user": 2,
+      "id": 3
+    },
+    {
+      "name": "Atarax",
+      "form": "Tablet",
+      "packSize": "2 x 25's",
+      "description": "Atarax is used as a sedative to treat anxiety and tension. It is also used together with other medications given for anesthesia",
+      "discountPercentage": 5,
+      "manufacturer": "GlaxoSmithKline",
+      "price": 61,
+      "stock": 50,
+      "thumbnail": "images/atarax.jpg",
+      "category": "Generic",
+      "productId": 8,
+      "quantity": 1,
+      "user": 1,
+      "id": 4
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "name": "Dettol 500ml",
+          "form": "Antiseptic Liquid",
+          "packSize": "500ml",
+          "description": "remove gums",
+          "discountPercentage": 12.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 925,
+          "stock": 80,
+          "thumbnail": "images/detol.jpg",
+          "category": "Pain Relief",
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1850,
+      "totalItems": 2,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "addresses": [
+          {
+            "name": "Kalash",
+            "email": "test123@gmail.com",
+            "phone": "456789123",
+            "street": "Pindi",
+            "city": "Pindhi",
+            "state": "sindh",
+            "pinCode": "12345"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Kalash",
+        "email": "test123@gmail.com",
+        "phone": "456789123",
+        "street": "Pindi",
+        "city": "Pindhi",
+        "state": "sindh",
+        "pinCode": "12345"
+      },
+      "status": "cancelled",
+      "id": 1
+    },
+    {
+      "items": [
+        {
+          "name": "Dettol 500ml",
+          "form": "Antiseptic Liquid",
+          "packSize": "500ml",
+          "description": "remove gums",
+          "discountPercentage": 12.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 925,
+          "stock": 80,
+          "thumbnail": "images/detol.jpg",
+          "category": "Pain Relief",
+          "quantity": 2,
+          "user": 1,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1850,
+      "totalItems": 2,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "addresses": [
+          {
+            "name": "Kalash",
+            "email": "test123@gmail.com",
+            "phone": "456789123",
+            "street": "Pindi",
+            "city": "Pindhi",
+            "state": "sindh",
+            "pinCode": "12345"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Kalash",
+        "email": "test123@gmail.com",
+        "phone": "456789123",
+        "street": "Pindi",
+        "city": "Pindhi",
+        "state": "sindh",
+        "pinCode": "12345"
+      },
+      "status": "dispatched",
+      "id": 2
+    },
+    {
+      "items": [
+        {
+          "id": 4,
+          "name": "Cogin",
+          "form": "Tablet",
+          "packSize": "20",
+          "description": "Increases circulation to the brain & lower extremities.",
+          "discountPercentage": 12.96,
+          "manufacturer": "Avant Pharma",
+          "price": 325,
+          "stock": 80,
+          "thumbnail": "images/cogin.jpg",
+          "category": "Generic",
+          "quantity": 2,
+          "user": 2
+        },
+        {
+          "id": 5,
+          "name": "Hamdard Jernide 120ml",
+          "form": "Liquid",
+          "packSize": "120ml",
+          "description": "Hamdard Jernide addresses the issue related to male general debility. This syrup can be used by male only. It checks seminal discharge and provides relief from burning sensation urine discharge. It is also helpful in night fall",
+          "discountPercentage": 13,
+          "manufacturer": "Hamdard Limited",
+          "price": 160,
+          "stock": 80,
+          "thumbnail": "images/jernide.jpg",
+          "category": "Cyrup",
+          "quantity": 1,
+          "user": 2
+        },
+        {
+          "id": 9,
+          "name": "Aprovel",
+          "form": "Tablet",
+          "packSize": "2x8's",
+          "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+          "discountPercentage": 12,
+          "manufacturer": "SANOFI-AVENTIS",
+          "price": 666,
+          "stock": 50,
+          "thumbnail": "images/aprovel.jpg",
+          "category": "Generic",
+          "quantity": 1,
+          "user": 2
+        },
+        {
+          "id": 2,
+          "name": "Dettol 500ml",
+          "form": "Antiseptic Liquid",
+          "packSize": "500ml",
+          "description": "remove gums",
+          "discountPercentage": 12.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 925,
+          "stock": 80,
+          "thumbnail": "images/detol.jpg",
+          "category": "Pain Relief",
+          "quantity": 1,
+          "user": 2
+        },
+        {
+          "id": 8,
+          "name": "Atarax",
+          "form": "Tablet",
+          "packSize": "2 x 25's",
+          "description": "Atarax is used as a sedative to treat anxiety and tension. It is also used together with other medications given for anesthesia",
+          "discountPercentage": 5,
+          "manufacturer": "GlaxoSmithKline",
+          "price": 61,
+          "stock": 50,
+          "thumbnail": "images/atarax.jpg",
+          "category": "Generic",
+          "quantity": 1,
+          "user": 2
+        },
+        {
+          "id": 10,
+          "name": "Amclav",
+          "form": "Tablet",
+          "packSize": "1 x 6's",
+          "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+          "discountPercentage": 8,
+          "manufacturer": "Getz Pharma",
+          "price": 275,
+          "stock": 80,
+          "thumbnail": "images/amclav.jpg",
+          "category": "bacterial infection",
+          "quantity": 1,
+          "user": 2
+        }
+      ],
+      "totalAmount": 2737,
+      "totalItems": 7,
+      "user": {
+        "email": "demo123@gmail.com",
+        "password": "Beast123",
+        "addresses": [
+          {
+            "name": "kashi",
+            "email": "kashiPrince@123gmail.com",
+            "phone": "0900786019",
+            "street": "dark Street near pindi",
+            "city": "Haryana",
+            "state": "11200",
+            "pinCode": "120000"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "kashi",
+        "email": "kashiPrince@123gmail.com",
+        "phone": "0900786019",
+        "street": "dark Street near pindi",
+        "city": "Haryana",
+        "state": "11200",
+        "pinCode": "120000"
+      },
+      "status": "pending",
+      "id": 3
+    },
+    {
+      "items": [
+        {
+          "id": 2,
+          "name": "Dettol 500ml",
+          "form": "Antiseptic Liquid",
+          "packSize": "500ml",
+          "description": "remove gums",
+          "discountPercentage": 12.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 925,
+          "stock": 80,
+          "thumbnail": "images/detol.jpg",
+          "category": "Pain Relief",
+          "quantity": 1,
+          "user": 2
+        }
+      ],
+      "totalAmount": 925,
+      "totalItems": 1,
+      "user": {
+        "email": "demo123@gmail.com",
+        "password": "Beast123",
+        "addresses": [
+          {
+            "name": "kashi",
+            "email": "kashiPrince@123gmail.com",
+            "phone": "0900786019",
+            "street": "dark Street near pindi",
+            "city": "Haryana",
+            "state": "11200",
+            "pinCode": "120000"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "kashi",
+        "email": "kashiPrince@123gmail.com",
+        "phone": "0900786019",
+        "street": "dark Street near pindi",
+        "city": "Haryana",
+        "state": "11200",
+        "pinCode": "120000"
+      },
+      "status": "pending",
+      "id": 4
+    },
+    {
+      "items": [
+        {
+          "name": "Cogin",
+          "form": "Tablet",
+          "packSize": "20",
+          "description": "Increases circulation to the brain & lower extremities.",
+          "discountPercentage": 12.96,
+          "manufacturer": "Avant Pharma",
+          "price": 325,
+          "stock": 80,
+          "thumbnail": "images/cogin.jpg",
+          "category": "Generic",
+          "quantity": 2,
+          "user": 1,
+          "id": 2
+        }
+      ],
+      "totalAmount": 650,
+      "totalItems": 2,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "addresses": [
+          {
+            "name": "Kalash",
+            "email": "test123@gmail.com",
+            "phone": "456789123",
+            "street": "Pindi",
+            "city": "Pindhi",
+            "state": "sindh",
+            "pinCode": "12345"
+          },
+          {
+            "name": "Usama",
+            "email": "usamameher@gmail.com",
+            "phone": "54466789990",
+            "street": "Street No2 Main Bazar Jama Masjid Dehli",
+            "city": "Dehli",
+            "state": "UP",
+            "pinCode": "123456"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Usama",
+        "email": "usamameher@gmail.com",
+        "phone": "54466789990",
+        "street": "Street No2 Main Bazar Jama Masjid Dehli",
+        "city": "Dehli",
+        "state": "UP",
+        "pinCode": "123456"
+      },
+      "status": "pending",
+      "id": 5
+    },
+    {
+      "items": [
+        {
+          "name": "Caricef 200mg",
+          "form": "Tablet",
+          "packSize": "1x5's",
+          "description": "to help for curing flu infection",
+          "discountPercentage": 12.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 525,
+          "stock": 70,
+          "thumbnail": "images/caricef.jpg",
+          "category": "Flu infection",
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 525,
+      "totalItems": 1,
+      "user": {
+        "email": "demo123@gmail.com",
+        "password": "Beast123",
+        "addresses": [
+          {
+            "name": "kashi",
+            "email": "kashiPrince@123gmail.com",
+            "phone": "0900786019",
+            "street": "dark Street near pindi",
+            "city": "Haryana",
+            "state": "11200",
+            "pinCode": "120000"
+          },
+          {
+            "name": "JohnCena",
+            "email": "cena123@gmail.com",
+            "phone": "+91-11111111",
+            "street": "Main NewYork Chowk Chuburji",
+            "city": "NewYork",
+            "state": "Atlia",
+            "pinCode": "87956"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "JohnCena",
+        "email": "cena123@gmail.com",
+        "phone": "+91-11111111",
+        "street": "Main NewYork Chowk Chuburji",
+        "city": "NewYork",
+        "state": "Atlia",
+        "pinCode": "87956"
+      },
+      "status": "pending",
+      "id": 6
+    },
+    {
+      "items": [
+        {
+          "name": "Amodip-V ",
+          "form": "Tablet",
+          "packSize": "1x7's",
+          "description": "Amodip-V relaxing the blood vessels and make blood flow easier. It also helps to prevent kidney problems, heart attacks, and strokes by lowering high blood pressure",
+          "discountPercentage": 12.96,
+          "manufacturer": "Mass-PH Health Limited",
+          "price": 725,
+          "stock": 80,
+          "thumbnail": "images/amodip.jpg",
+          "category": "Amlodipine besylate",
+          "quantity": 2,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1450,
+      "totalItems": 2,
+      "user": {
+        "email": "demo123@gmail.com",
+        "password": "Beast123",
+        "addresses": [
+          {
+            "name": "kashi",
+            "email": "kashiPrince@123gmail.com",
+            "phone": "0900786019",
+            "street": "dark Street near pindi",
+            "city": "Haryana",
+            "state": "11200",
+            "pinCode": "120000"
+          },
+          {
+            "name": "terminator",
+            "email": "terminator@gmail.com",
+            "phone": "+91-11111111",
+            "street": "NewYork Street2",
+            "city": "New York",
+            "state": "Atlanta",
+            "pinCode": "45679"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "terminator",
+        "email": "terminator@gmail.com",
+        "phone": "+91-11111111",
+        "street": "NewYork Street2",
+        "city": "New York",
+        "state": "Atlanta",
+        "pinCode": "45679"
+      },
+      "status": "pending",
+      "id": 7
+    },
+    {
+      "items": [
+        {
+          "name": "Amclav",
+          "form": "Tablet",
+          "packSize": "1 x 6's",
+          "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+          "discountPercentage": 8,
+          "manufacturer": "Getz Pharma",
+          "price": 275,
+          "stock": 80,
+          "thumbnail": "images/amclav.jpg",
+          "category": "bacterial infection",
+          "quantity": 1,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 275,
+      "totalItems": 1,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "addresses": [
+          {
+            "name": "Dawood Butt",
+            "email": "jani123@gmail.com",
+            "phone": "090078601",
+            "street": "Kashmiri",
+            "city": "Multan",
+            "state": "Punjab",
+            "pinCode": "23456"
+          },
+          {
+            "name": "Shahid",
+            "email": "shahid@gmail.com",
+            "phone": "0900786019",
+            "street": "dark Street near pindi",
+            "city": "Haryana",
+            "state": "Punjab",
+            "pinCode": "120000"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Dawood Butt",
+        "email": "jani123@gmail.com",
+        "phone": "090078601",
+        "street": "Kashmiri",
+        "city": "Multan",
+        "state": "Punjab",
+        "pinCode": "23456"
+      },
+      "status": "dispatched",
+      "id": 8
+    },
+    {
+      "items": [
+        {
+          "name": "Siroline Syrup 120ml",
+          "form": "Antiseptic Liquid",
+          "packSize": "1",
+          "description": "remove dry cough",
+          "discountPercentage": 12.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 125,
+          "stock": 80,
+          "thumbnail": "images/siroline.jpg",
+          "category": "Cough Infection",
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 125,
+      "totalItems": 1,
+      "user": {
+        "email": "demo123@gmail.com",
+        "password": "Beast123",
+        "addresses": [
+          {
+            "name": "TAHA",
+            "email": "jani@gmail.com",
+            "phone": "1111123455",
+            "street": "2 Amin park,ravi road",
+            "city": "Lahore",
+            "state": "03224120611",
+            "pinCode": "HOUSE NO 31 STREET NO2 AMIN PARK LAHORE"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "TAHA",
+        "email": "jani@gmail.com",
+        "phone": "1111123455",
+        "street": "2 Amin park,ravi road",
+        "city": "Lahore",
+        "state": "03224120611",
+        "pinCode": "HOUSE NO 31 STREET NO2 AMIN PARK LAHORE"
+      },
+      "status": "pending",
+      "id": 9
+    },
+    {
+      "items": [
+        {
+          "name": "Algocin 500mg",
+          "form": "Tablet",
+          "packSize": "1x10's",
+          "description": "Algocin is an antibacterial medication used to treat a variety of bacterial infections.",
+          "discountPercentage": 13.96,
+          "manufacturer": "AGP Limited",
+          "price": 360,
+          "stock": 80,
+          "thumbnail": "images/algocin.jpg",
+          "category": "Bacterial Infection",
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 360,
+      "totalItems": 1,
+      "user": {
+        "email": "demo123@gmail.com",
+        "password": "Beast123",
+        "addresses": [
+          {
+            "name": "TAHA",
+            "email": "jani@gmail.com",
+            "phone": "1111123455",
+            "street": "2 Amin park,ravi road",
+            "city": "Lahore",
+            "state": "03224120611",
+            "pinCode": "HOUSE NO 31 STREET NO2 AMIN PARK LAHORE"
+          },
+          {
+            "name": "Golo Butt",
+            "email": "butt@gmail.com",
+            "phone": "0900874321",
+            "street": "Main street2 near badshai Mosque",
+            "city": "Mumbai",
+            "state": "punjab",
+            "pinCode": "23456"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Golo Butt",
+        "email": "butt@gmail.com",
+        "phone": "0900874321",
+        "street": "Main street2 near badshai Mosque",
+        "city": "Mumbai",
+        "state": "punjab",
+        "pinCode": "23456"
+      },
+      "status": "dispatched",
+      "id": 10
+    },
+    {
+      "items": [
+        {
+          "name": "Aprovel",
+          "form": "Tablet",
+          "packSize": "2x8's",
+          "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+          "discountPercentage": 12,
+          "manufacturer": "SANOFI-AVENTIS",
+          "price": 666,
+          "stock": 50,
+          "thumbnail": "images/aprovel.jpg",
+          "category": "Generic",
+          "quantity": 1,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 666,
+      "totalItems": 1,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "addresses": [
+          {
+            "name": "Hasnat Butt",
+            "email": "testify123@gmail.com",
+            "phone": "2345678",
+            "street": "kashmir",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Hasnat Butt",
+        "email": "testify123@gmail.com",
+        "phone": "2345678",
+        "street": "kashmir",
+        "city": "Pindhi",
+        "state": "punjab",
+        "pinCode": "45678"
+      },
+      "status": "pending",
+      "id": 11
+    },
+    {
+      "items": [
+        {
+          "name": "Algocin 500mg",
+          "form": "Tablet",
+          "packSize": "1x10's",
+          "description": "Algocin is an antibacterial medication used to treat a variety of bacterial infections.",
+          "discountPercentage": 13.96,
+          "manufacturer": "AGP Limited",
+          "price": 360,
+          "stock": 80,
+          "thumbnail": "images/algocin.jpg",
+          "category": "Bacterial Infection",
+          "quantity": 2,
+          "user": 1,
+          "id": 2
+        }
+      ],
+      "totalAmount": 720,
+      "totalItems": 2,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Hasnat Jutt",
+            "email": "testify123@gmail.com",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678",
+            "phone": "2345678",
+            "street": "kashmir"
+          },
+          {
+            "name": "Sono Meher",
+            "email": "meher@gmail.com",
+            "phone": "094446789",
+            "street": "Main street Karachi",
+            "city": "karachi",
+            "state": "sindh",
+            "pinCode": "345678"
+          }
+        ],
+        "id": 1,
+        "orders": [
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 1
+          },
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 2
+          },
+          {
+            "items": [
+              {
+                "name": "Cogin",
+                "form": "Tablet",
+                "packSize": "20",
+                "description": "Increases circulation to the brain & lower extremities.",
+                "discountPercentage": 12.96,
+                "manufacturer": "Avant Pharma",
+                "price": 325,
+                "stock": 80,
+                "thumbnail": "images/cogin.jpg",
+                "category": "Generic",
+                "quantity": 2,
+                "user": 1,
+                "id": 2
+              }
+            ],
+            "totalAmount": 650,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                },
+                {
+                  "name": "Usama",
+                  "email": "usamameher@gmail.com",
+                  "phone": "54466789990",
+                  "street": "Street No2 Main Bazar Jama Masjid Dehli",
+                  "city": "Dehli",
+                  "state": "UP",
+                  "pinCode": "123456"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Usama",
+              "email": "usamameher@gmail.com",
+              "phone": "54466789990",
+              "street": "Street No2 Main Bazar Jama Masjid Dehli",
+              "city": "Dehli",
+              "state": "UP",
+              "pinCode": "123456"
+            },
+            "status": "pending",
+            "id": 5
+          },
+          {
+            "items": [
+              {
+                "name": "Amclav",
+                "form": "Tablet",
+                "packSize": "1 x 6's",
+                "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+                "discountPercentage": 8,
+                "manufacturer": "Getz Pharma",
+                "price": 275,
+                "stock": 80,
+                "thumbnail": "images/amclav.jpg",
+                "category": "bacterial infection",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 275,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Dawood Butt",
+                  "email": "jani123@gmail.com",
+                  "phone": "090078601",
+                  "street": "Kashmiri",
+                  "city": "Multan",
+                  "state": "Punjab",
+                  "pinCode": "23456"
+                },
+                {
+                  "name": "Shahid",
+                  "email": "shahid@gmail.com",
+                  "phone": "0900786019",
+                  "street": "dark Street near pindi",
+                  "city": "Haryana",
+                  "state": "Punjab",
+                  "pinCode": "120000"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Dawood Butt",
+              "email": "jani123@gmail.com",
+              "phone": "090078601",
+              "street": "Kashmiri",
+              "city": "Multan",
+              "state": "Punjab",
+              "pinCode": "23456"
+            },
+            "status": "pending",
+            "id": 8
+          },
+          {
+            "items": [
+              {
+                "name": "Aprovel",
+                "form": "Tablet",
+                "packSize": "2x8's",
+                "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+                "discountPercentage": 12,
+                "manufacturer": "SANOFI-AVENTIS",
+                "price": 666,
+                "stock": 50,
+                "thumbnail": "images/aprovel.jpg",
+                "category": "Generic",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 666,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Hasnat Butt",
+                  "email": "testify123@gmail.com",
+                  "phone": "2345678",
+                  "street": "kashmir",
+                  "city": "Pindhi",
+                  "state": "punjab",
+                  "pinCode": "45678"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Hasnat Butt",
+              "email": "testify123@gmail.com",
+              "phone": "2345678",
+              "street": "kashmir",
+              "city": "Pindhi",
+              "state": "punjab",
+              "pinCode": "45678"
+            },
+            "status": "pending",
+            "id": 11
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Hasnat Jutt",
+        "email": "testify123@gmail.com",
+        "city": "Pindhi",
+        "state": "punjab",
+        "pinCode": "45678",
+        "phone": "2345678",
+        "street": "kashmir"
+      },
+      "status": "pending",
+      "id": 12
+    },
+    {
+      "items": [
+        {
+          "name": "Rigix 10mg",
+          "form": "Tablet",
+          "packSize": "2x15's",
+          "description": "use for allergic",
+          "discountPercentage": 9,
+          "manufacturer": "AGP(Pvt)Ltd",
+          "price": 260,
+          "stock": 80,
+          "thumbnail": "images/rigix.jpg",
+          "category": "allergic",
+          "quantity": 1,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 260,
+      "totalItems": 1,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Hasnat Jutt",
+            "email": "testify123@gmail.com",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678",
+            "phone": "2345678",
+            "street": "kashmir"
+          },
+          {
+            "name": "Sono Meher",
+            "email": "meher@gmail.com",
+            "phone": "094446789",
+            "street": "Main street Karachi",
+            "city": "karachi",
+            "state": "sindh",
+            "pinCode": "345678"
+          },
+          {
+            "name": "Hasnat Butt",
+            "email": "testify123@gmail.com",
+            "phone": "2345678",
+            "street": "kashmir",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678"
+          }
+        ],
+        "id": 1,
+        "orders": [
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 1
+          },
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 2
+          },
+          {
+            "items": [
+              {
+                "name": "Cogin",
+                "form": "Tablet",
+                "packSize": "20",
+                "description": "Increases circulation to the brain & lower extremities.",
+                "discountPercentage": 12.96,
+                "manufacturer": "Avant Pharma",
+                "price": 325,
+                "stock": 80,
+                "thumbnail": "images/cogin.jpg",
+                "category": "Generic",
+                "quantity": 2,
+                "user": 1,
+                "id": 2
+              }
+            ],
+            "totalAmount": 650,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                },
+                {
+                  "name": "Usama",
+                  "email": "usamameher@gmail.com",
+                  "phone": "54466789990",
+                  "street": "Street No2 Main Bazar Jama Masjid Dehli",
+                  "city": "Dehli",
+                  "state": "UP",
+                  "pinCode": "123456"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Usama",
+              "email": "usamameher@gmail.com",
+              "phone": "54466789990",
+              "street": "Street No2 Main Bazar Jama Masjid Dehli",
+              "city": "Dehli",
+              "state": "UP",
+              "pinCode": "123456"
+            },
+            "status": "pending",
+            "id": 5
+          },
+          {
+            "items": [
+              {
+                "name": "Amclav",
+                "form": "Tablet",
+                "packSize": "1 x 6's",
+                "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+                "discountPercentage": 8,
+                "manufacturer": "Getz Pharma",
+                "price": 275,
+                "stock": 80,
+                "thumbnail": "images/amclav.jpg",
+                "category": "bacterial infection",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 275,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Dawood Butt",
+                  "email": "jani123@gmail.com",
+                  "phone": "090078601",
+                  "street": "Kashmiri",
+                  "city": "Multan",
+                  "state": "Punjab",
+                  "pinCode": "23456"
+                },
+                {
+                  "name": "Shahid",
+                  "email": "shahid@gmail.com",
+                  "phone": "0900786019",
+                  "street": "dark Street near pindi",
+                  "city": "Haryana",
+                  "state": "Punjab",
+                  "pinCode": "120000"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Dawood Butt",
+              "email": "jani123@gmail.com",
+              "phone": "090078601",
+              "street": "Kashmiri",
+              "city": "Multan",
+              "state": "Punjab",
+              "pinCode": "23456"
+            },
+            "status": "pending",
+            "id": 8
+          },
+          {
+            "items": [
+              {
+                "name": "Aprovel",
+                "form": "Tablet",
+                "packSize": "2x8's",
+                "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+                "discountPercentage": 12,
+                "manufacturer": "SANOFI-AVENTIS",
+                "price": 666,
+                "stock": 50,
+                "thumbnail": "images/aprovel.jpg",
+                "category": "Generic",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 666,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Hasnat Butt",
+                  "email": "testify123@gmail.com",
+                  "phone": "2345678",
+                  "street": "kashmir",
+                  "city": "Pindhi",
+                  "state": "punjab",
+                  "pinCode": "45678"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Hasnat Butt",
+              "email": "testify123@gmail.com",
+              "phone": "2345678",
+              "street": "kashmir",
+              "city": "Pindhi",
+              "state": "punjab",
+              "pinCode": "45678"
+            },
+            "status": "pending",
+            "id": 11
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Hasnat Jutt",
+        "email": "testify123@gmail.com",
+        "city": "Pindhi",
+        "state": "punjab",
+        "pinCode": "45678",
+        "phone": "2345678",
+        "street": "kashmir"
+      },
+      "status": "pending",
+      "id": 13
+    },
+    {
+      "items": [
+        {
+          "name": "Freestyle Glucometer Strips 50s",
+          "form": "Glucose monitor strips",
+          "packSize": "1",
+          "description": "Blood Glucose test Stripe",
+          "discountPercentage": 9,
+          "manufacturer": "Abbott Limited",
+          "price": 1750,
+          "stock": 80,
+          "thumbnail": "images/strips.jpg",
+          "category": "strips",
+          "quantity": 2,
+          "user": 3,
+          "id": 4
+        }
+      ],
+      "totalAmount": 3186,
+      "totalItems": 2,
+      "user": {
+        "email": "admin123@gmail.com",
+        "password": "Matrix123",
+        "addresses": [
+          {
+            "name": "John wick",
+            "email": "john123@gmail.com",
+            "phone": "+91-11111111",
+            "street": "Main NewYork street opposite to the TimeHorton",
+            "city": "New York",
+            "state": "Atariya",
+            "pinCode": "98765"
+          }
+        ],
+        "role": "admin",
+        "id": 3
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "John wick",
+        "email": "john123@gmail.com",
+        "phone": "+91-11111111",
+        "street": "Main NewYork street opposite to the TimeHorton",
+        "city": "New York",
+        "state": "Atariya",
+        "pinCode": "98765"
+      },
+      "status": "pending",
+      "id": 14
+    },
+    {
+      "items": [
+        {
+          "name": "FexetD",
+          "form": "tablet",
+          "packSize": "2x10's",
+          "description": "this mediciene  cure for chest infection and help to breath in anormal way",
+          "manufacturer": "Getz Pharma",
+          "category": "allergic",
+          "price": 230,
+          "discountPercentage": 4,
+          "stock": 12,
+          "thumbnail": "images/fexet.jpg",
+          "quantity": 1,
+          "user": 1,
+          "id": 3
+        }
+      ],
+      "totalAmount": 221,
+      "totalItems": 1,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Hasnat Jutt",
+            "email": "testify123@gmail.com",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678",
+            "phone": "2345678",
+            "street": "kashmir"
+          },
+          {
+            "name": "Sono Meher",
+            "email": "meher@gmail.com",
+            "phone": "094446789",
+            "street": "Main street Karachi",
+            "city": "karachi",
+            "state": "sindh",
+            "pinCode": "345678"
+          },
+          {
+            "name": "Hasnat Butt",
+            "email": "testify123@gmail.com",
+            "phone": "2345678",
+            "street": "kashmir",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678"
+          }
+        ],
+        "id": 1,
+        "orders": [
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 1
+          },
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 2
+          },
+          {
+            "items": [
+              {
+                "name": "Cogin",
+                "form": "Tablet",
+                "packSize": "20",
+                "description": "Increases circulation to the brain & lower extremities.",
+                "discountPercentage": 12.96,
+                "manufacturer": "Avant Pharma",
+                "price": 325,
+                "stock": 80,
+                "thumbnail": "images/cogin.jpg",
+                "category": "Generic",
+                "quantity": 2,
+                "user": 1,
+                "id": 2
+              }
+            ],
+            "totalAmount": 650,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                },
+                {
+                  "name": "Usama",
+                  "email": "usamameher@gmail.com",
+                  "phone": "54466789990",
+                  "street": "Street No2 Main Bazar Jama Masjid Dehli",
+                  "city": "Dehli",
+                  "state": "UP",
+                  "pinCode": "123456"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Usama",
+              "email": "usamameher@gmail.com",
+              "phone": "54466789990",
+              "street": "Street No2 Main Bazar Jama Masjid Dehli",
+              "city": "Dehli",
+              "state": "UP",
+              "pinCode": "123456"
+            },
+            "status": "pending",
+            "id": 5
+          },
+          {
+            "items": [
+              {
+                "name": "Amclav",
+                "form": "Tablet",
+                "packSize": "1 x 6's",
+                "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+                "discountPercentage": 8,
+                "manufacturer": "Getz Pharma",
+                "price": 275,
+                "stock": 80,
+                "thumbnail": "images/amclav.jpg",
+                "category": "bacterial infection",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 275,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Dawood Butt",
+                  "email": "jani123@gmail.com",
+                  "phone": "090078601",
+                  "street": "Kashmiri",
+                  "city": "Multan",
+                  "state": "Punjab",
+                  "pinCode": "23456"
+                },
+                {
+                  "name": "Shahid",
+                  "email": "shahid@gmail.com",
+                  "phone": "0900786019",
+                  "street": "dark Street near pindi",
+                  "city": "Haryana",
+                  "state": "Punjab",
+                  "pinCode": "120000"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Dawood Butt",
+              "email": "jani123@gmail.com",
+              "phone": "090078601",
+              "street": "Kashmiri",
+              "city": "Multan",
+              "state": "Punjab",
+              "pinCode": "23456"
+            },
+            "status": "pending",
+            "id": 8
+          },
+          {
+            "items": [
+              {
+                "name": "Aprovel",
+                "form": "Tablet",
+                "packSize": "2x8's",
+                "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+                "discountPercentage": 12,
+                "manufacturer": "SANOFI-AVENTIS",
+                "price": 666,
+                "stock": 50,
+                "thumbnail": "images/aprovel.jpg",
+                "category": "Generic",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 666,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Hasnat Butt",
+                  "email": "testify123@gmail.com",
+                  "phone": "2345678",
+                  "street": "kashmir",
+                  "city": "Pindhi",
+                  "state": "punjab",
+                  "pinCode": "45678"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Hasnat Butt",
+              "email": "testify123@gmail.com",
+              "phone": "2345678",
+              "street": "kashmir",
+              "city": "Pindhi",
+              "state": "punjab",
+              "pinCode": "45678"
+            },
+            "status": "pending",
+            "id": 11
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Sono Meher",
+        "email": "meher@gmail.com",
+        "phone": "094446789",
+        "street": "Main street Karachi",
+        "city": "karachi",
+        "state": "sindh",
+        "pinCode": "345678"
+      },
+      "status": "pending",
+      "id": 15
+    },
+    {
+      "items": [
+        {
+          "name": "Clinica 40gm",
+          "form": "Liquid",
+          "packSize": "1",
+          "description": " clinica is used to clean teeth",
+          "discountPercentage": 6.96,
+          "manufacturer": "Pharmaceuticals Limited",
+          "price": 125,
+          "stock": 80,
+          "thumbnail": "images/clinica.jpg",
+          "category": " tooth Paste",
+          "quantity": 2,
+          "user": 1,
+          "id": 3
+        }
+      ],
+      "totalAmount": 232,
+      "totalItems": 2,
+      "user": {
+        "email": "test123@gmail.com",
+        "password": "Query123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Hasnat Jutt",
+            "email": "testify123@gmail.com",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678",
+            "phone": "2345678",
+            "street": "kashmir"
+          },
+          {
+            "name": "Sono Meher",
+            "email": "meher@gmail.com",
+            "phone": "094446789",
+            "street": "Main street Karachi",
+            "city": "karachi",
+            "state": "sindh",
+            "pinCode": "345678"
+          },
+          {
+            "name": "Hasnat Butt",
+            "email": "testify123@gmail.com",
+            "phone": "2345678",
+            "street": "kashmir",
+            "city": "Pindhi",
+            "state": "punjab",
+            "pinCode": "45678"
+          }
+        ],
+        "id": 1,
+        "orders": [
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 1
+          },
+          {
+            "items": [
+              {
+                "name": "Dettol 500ml",
+                "form": "Antiseptic Liquid",
+                "packSize": "500ml",
+                "description": "remove gums",
+                "discountPercentage": 12.96,
+                "manufacturer": "Pharmaceuticals Limited",
+                "price": 925,
+                "stock": 80,
+                "thumbnail": "images/detol.jpg",
+                "category": "Pain Relief",
+                "quantity": 2,
+                "user": 1,
+                "id": "pSfCUAu"
+              }
+            ],
+            "totalAmount": 1850,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Kalash",
+              "email": "test123@gmail.com",
+              "phone": "456789123",
+              "street": "Pindi",
+              "city": "Pindhi",
+              "state": "sindh",
+              "pinCode": "12345"
+            },
+            "status": "pending",
+            "id": 2
+          },
+          {
+            "items": [
+              {
+                "name": "Cogin",
+                "form": "Tablet",
+                "packSize": "20",
+                "description": "Increases circulation to the brain & lower extremities.",
+                "discountPercentage": 12.96,
+                "manufacturer": "Avant Pharma",
+                "price": 325,
+                "stock": 80,
+                "thumbnail": "images/cogin.jpg",
+                "category": "Generic",
+                "quantity": 2,
+                "user": 1,
+                "id": 2
+              }
+            ],
+            "totalAmount": 650,
+            "totalItems": 2,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Kalash",
+                  "email": "test123@gmail.com",
+                  "phone": "456789123",
+                  "street": "Pindi",
+                  "city": "Pindhi",
+                  "state": "sindh",
+                  "pinCode": "12345"
+                },
+                {
+                  "name": "Usama",
+                  "email": "usamameher@gmail.com",
+                  "phone": "54466789990",
+                  "street": "Street No2 Main Bazar Jama Masjid Dehli",
+                  "city": "Dehli",
+                  "state": "UP",
+                  "pinCode": "123456"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Usama",
+              "email": "usamameher@gmail.com",
+              "phone": "54466789990",
+              "street": "Street No2 Main Bazar Jama Masjid Dehli",
+              "city": "Dehli",
+              "state": "UP",
+              "pinCode": "123456"
+            },
+            "status": "pending",
+            "id": 5
+          },
+          {
+            "items": [
+              {
+                "name": "Amclav",
+                "form": "Tablet",
+                "packSize": "1 x 6's",
+                "description": "Amclav Tablet is used to treat various types of infections caused by bacteria such as sinus infection, respiratory tract infections, urinary tract infection, bone, tooth and joint infections",
+                "discountPercentage": 8,
+                "manufacturer": "Getz Pharma",
+                "price": 275,
+                "stock": 80,
+                "thumbnail": "images/amclav.jpg",
+                "category": "bacterial infection",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 275,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Dawood Butt",
+                  "email": "jani123@gmail.com",
+                  "phone": "090078601",
+                  "street": "Kashmiri",
+                  "city": "Multan",
+                  "state": "Punjab",
+                  "pinCode": "23456"
+                },
+                {
+                  "name": "Shahid",
+                  "email": "shahid@gmail.com",
+                  "phone": "0900786019",
+                  "street": "dark Street near pindi",
+                  "city": "Haryana",
+                  "state": "Punjab",
+                  "pinCode": "120000"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Dawood Butt",
+              "email": "jani123@gmail.com",
+              "phone": "090078601",
+              "street": "Kashmiri",
+              "city": "Multan",
+              "state": "Punjab",
+              "pinCode": "23456"
+            },
+            "status": "pending",
+            "id": 8
+          },
+          {
+            "items": [
+              {
+                "name": "Aprovel",
+                "form": "Tablet",
+                "packSize": "2x8's",
+                "description": "Aprovel is used in adults who have essential hypertension high blood pressure",
+                "discountPercentage": 12,
+                "manufacturer": "SANOFI-AVENTIS",
+                "price": 666,
+                "stock": 50,
+                "thumbnail": "images/aprovel.jpg",
+                "category": "Generic",
+                "quantity": 1,
+                "user": 1,
+                "id": 1
+              }
+            ],
+            "totalAmount": 666,
+            "totalItems": 1,
+            "user": {
+              "email": "test123@gmail.com",
+              "password": "Query123",
+              "addresses": [
+                {
+                  "name": "Hasnat Butt",
+                  "email": "testify123@gmail.com",
+                  "phone": "2345678",
+                  "street": "kashmir",
+                  "city": "Pindhi",
+                  "state": "punjab",
+                  "pinCode": "45678"
+                }
+              ],
+              "id": 1
+            },
+            "paymentMethod": "cash",
+            "selectedAddress": {
+              "name": "Hasnat Butt",
+              "email": "testify123@gmail.com",
+              "phone": "2345678",
+              "street": "kashmir",
+              "city": "Pindhi",
+              "state": "punjab",
+              "pinCode": "45678"
+            },
+            "status": "pending",
+            "id": 11
+          }
+        ]
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Hasnat Butt",
+        "email": "testify123@gmail.com",
+        "phone": "2345678",
+        "street": "kashmir",
+        "city": "Pindhi",
+        "state": "punjab",
+        "pinCode": "45678"
+      },
+      "status": "pending",
+      "id": 16
+    }
+  ]
+}
